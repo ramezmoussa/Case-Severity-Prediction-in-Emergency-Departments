@@ -17,10 +17,8 @@ In order to select the features out of the 900 features, SelectKBest was utilize
 
 The results of each of these models can be found in the 4 versions developed under the Model directory.
 
-Authors: 
 
-Ramez Moussa
-
-Bassant Monuir
-
-Hoda Amin
+## Authors:
+  * Ramez Moussa - [Github Profile](https://github.com/ramezmoussa)
+  * Bassant Monuir - [Github Profile](https://github.com/baahmed)
+  * Hoda Amin
